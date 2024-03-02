@@ -1,0 +1,10 @@
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmod3_1302223074\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmod3_1302223074\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmod3_1302223074\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmod3_1302223074\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmod3_1302223074\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Kirim.resources
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmod3_1302223074\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmod3_1302223074\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmod3_1302223074\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmod3_1302223074\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmod3_1302223074\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

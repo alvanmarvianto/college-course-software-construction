@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Alvan\\kliah\\sem4\\kpl\\praktikum\\tpmod3_1302223074\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B72E972-40AD-4CC1-839E-C145DD978445}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\alvan\\kliah\\sem4\\kpl\\praktikum\\tpmod3_1302223074\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B72E972-40AD-4CC1-839E-C145DD978445}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B72E972-40AD-4CC1-839E-C145DD978445}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\alvan\\kliah\\sem4\\kpl\\praktikum\\tpmod3_1302223074\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B72E972-40AD-4CC1-839E-C145DD978445}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Alvan\\kliah\\sem4\\kpl\\praktikum\\tpmod3_1302223074\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Alvan\\kliah\\sem4\\kpl\\praktikum\\tpmod3_1302223074\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:35:39.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Alvan\\kliah\\sem4\\kpl\\praktikum\\tpmod3_1302223074\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\Alvan\\kliah\\sem4\\kpl\\praktikum\\tpmod3_1302223074\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:33:07.562Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
