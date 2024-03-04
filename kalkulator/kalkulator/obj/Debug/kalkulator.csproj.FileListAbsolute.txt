@@ -1,0 +1,10 @@
+D:\mod3_1302223074\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+D:\mod3_1302223074\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+D:\mod3_1302223074\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+D:\mod3_1302223074\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+D:\mod3_1302223074\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+D:\mod3_1302223074\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\mod3_1302223074\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\mod3_1302223074\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\mod3_1302223074\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+D:\mod3_1302223074\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
