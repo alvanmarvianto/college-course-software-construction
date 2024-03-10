@@ -1,0 +1,14 @@
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\bin\Debug\net8.0\tpmodul4_1302223074.exe
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\bin\Debug\net8.0\tpmodul4_1302223074.deps.json
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\bin\Debug\net8.0\tpmodul4_1302223074.runtimeconfig.json
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\bin\Debug\net8.0\tpmodul4_1302223074.dll
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\bin\Debug\net8.0\tpmodul4_1302223074.pdb
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\obj\Debug\net8.0\tpmodul4_1302223074.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\obj\Debug\net8.0\tpmodul4_1302223074.AssemblyInfoInputs.cache
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\obj\Debug\net8.0\tpmodul4_1302223074.AssemblyInfo.cs
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\obj\Debug\net8.0\tpmodul4_1302223074.csproj.CoreCompileInputs.cache
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\obj\Debug\net8.0\tpmodul4_1302223074.dll
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\obj\Debug\net8.0\refint\tpmodul4_1302223074.dll
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\obj\Debug\net8.0\tpmodul4_1302223074.pdb
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\obj\Debug\net8.0\tpmodul4_1302223074.genruntimeconfig.cache
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul4_1302223074\tpmodul4_1302223074\obj\Debug\net8.0\ref\tpmodul4_1302223074.dll
