@@ -1,0 +1,15 @@
+D:\modul3_1302223074\modul3_1302223074\obj\Debug\net8.0\modul3_1302223074.GeneratedMSBuildEditorConfig.editorconfig
+D:\modul3_1302223074\modul3_1302223074\obj\Debug\net8.0\modul3_1302223074.AssemblyInfoInputs.cache
+D:\modul3_1302223074\modul3_1302223074\obj\Debug\net8.0\modul3_1302223074.AssemblyInfo.cs
+D:\modul3_1302223074\modul3_1302223074\obj\Debug\net8.0\modul3_1302223074.csproj.CoreCompileInputs.cache
+D:\modul3_1302223074\modul3_1302223074\obj\Debug\net8.0\modul3_1302223074.sourcelink.json
+D:\modul3_1302223074\modul3_1302223074\bin\Debug\net8.0\modul3_1302223074.exe
+D:\modul3_1302223074\modul3_1302223074\bin\Debug\net8.0\modul3_1302223074.deps.json
+D:\modul3_1302223074\modul3_1302223074\bin\Debug\net8.0\modul3_1302223074.runtimeconfig.json
+D:\modul3_1302223074\modul3_1302223074\bin\Debug\net8.0\modul3_1302223074.dll
+D:\modul3_1302223074\modul3_1302223074\bin\Debug\net8.0\modul3_1302223074.pdb
+D:\modul3_1302223074\modul3_1302223074\obj\Debug\net8.0\modul3_1302223074.dll
+D:\modul3_1302223074\modul3_1302223074\obj\Debug\net8.0\refint\modul3_1302223074.dll
+D:\modul3_1302223074\modul3_1302223074\obj\Debug\net8.0\modul3_1302223074.pdb
+D:\modul3_1302223074\modul3_1302223074\obj\Debug\net8.0\modul3_1302223074.genruntimeconfig.cache
+D:\modul3_1302223074\modul3_1302223074\obj\Debug\net8.0\ref\modul3_1302223074.dll
