@@ -1,0 +1,10 @@
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul12_1302223074\tpmodul12_1302223074\bin\Debug\tpmodul12_1302223074.exe.config
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul12_1302223074\tpmodul12_1302223074\bin\Debug\tpmodul12_1302223074.exe
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul12_1302223074\tpmodul12_1302223074\bin\Debug\tpmodul12_1302223074.pdb
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul12_1302223074\tpmodul12_1302223074\obj\Debug\tpmodul12_1302223074.csproj.AssemblyReference.cache
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul12_1302223074\tpmodul12_1302223074\obj\Debug\tpmodul12_1302223074.Form1.resources
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul12_1302223074\tpmodul12_1302223074\obj\Debug\tpmodul12_1302223074.Properties.Resources.resources
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul12_1302223074\tpmodul12_1302223074\obj\Debug\tpmodul12_1302223074.csproj.GenerateResource.cache
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul12_1302223074\tpmodul12_1302223074\obj\Debug\tpmodul12_1302223074.csproj.CoreCompileInputs.cache
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul12_1302223074\tpmodul12_1302223074\obj\Debug\tpmodul12_1302223074.exe
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul12_1302223074\tpmodul12_1302223074\obj\Debug\tpmodul12_1302223074.pdb

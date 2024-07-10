@@ -1,0 +1,11 @@
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul11_1302223074\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.deps.json
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul11_1302223074\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.dll
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul11_1302223074\AljabarLibraries\bin\Debug\net8.0\AljabarLibraries.pdb
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul11_1302223074\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul11_1302223074\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfoInputs.cache
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul11_1302223074\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.AssemblyInfo.cs
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul11_1302223074\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul11_1302223074\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.dll
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul11_1302223074\AljabarLibraries\obj\Debug\net8.0\refint\AljabarLibraries.dll
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul11_1302223074\AljabarLibraries\obj\Debug\net8.0\AljabarLibraries.pdb
+D:\Alvan\kliah\sem4\kpl\praktikum\tpmodul11_1302223074\AljabarLibraries\obj\Debug\net8.0\ref\AljabarLibraries.dll
